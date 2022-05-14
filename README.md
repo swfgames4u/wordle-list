@@ -28,8 +28,8 @@ vex 4:https://rudolph-the-red-nosed-reindeer.ga/tam-vex-5/
 
 vex 4:https://rudolph-the-red-nosed-reindeer.ga/tam-focus-frame/?url=%2Ftmm-vex4%2F#
 
-cookie clicker: rudolph-the-red-nosed-reindeer.ga/tmm-cookieclicker/
+cookie clicker: https://rudolph-the-red-nosed-reindeer.ga/tmm-cookieclicker/
 
-crossy road :rudolph-the-red-nosed-reindeer.ga/tam-crossyroad/
+crossy road : https://rudolph-the-red-nosed-reindeer.ga/tam-crossyroad/
 
 
