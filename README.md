@@ -19,3 +19,5 @@ letterle (guess the letter):https://edjefferson.com/letterle/https://edjefferson
 absurdle:https://qntm.org/files/absurdle/absurdle.html
 
 wordl: clone of  wordle: https://hellowordl.net/?seed=20220514&length=5&game=1
+
+cookie clicker:https://images-docs-opensocial.googleusercontent.com/gadgets/ifr?quot&url=https://sites.google.com/site/v114lr8k/cookieclicker.xml
