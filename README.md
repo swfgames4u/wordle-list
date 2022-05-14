@@ -21,3 +21,15 @@ absurdle:https://qntm.org/files/absurdle/absurdle.html
 wordl: clone of  wordle: https://hellowordl.net/?seed=20220514&length=5&game=1
 
 cookie clicker:https://images-docs-opensocial.googleusercontent.com/gadgets/ifr?quot&url=https://sites.google.com/site/v114lr8k/cookieclicker.xml
+
+madalin cars multiplayer: https://rudolph-the-red-nosed-reindeer.ga/tam-madalin-cars-multiplayer/
+vex 3 :https://rudolph-the-red-nosed-reindeer.ga/tam-focus-frame/?url=%2Ftmm-vex3%2F# 
+vex 4:https://rudolph-the-red-nosed-reindeer.ga/tam-vex-5/
+
+vex 4:https://rudolph-the-red-nosed-reindeer.ga/tam-focus-frame/?url=%2Ftmm-vex4%2F#
+
+cookie clicker: rudolph-the-red-nosed-reindeer.ga/tmm-cookieclicker/
+
+crossy road :rudolph-the-red-nosed-reindeer.ga/tam-crossyroad/
+
+
