@@ -11,3 +11,5 @@ wordle solver:https://wordlesolver.onl/
 
 
 wordplay: https://wordplay.com/
+
+advanced method:https://sites.google.com/view/theadvancedmethod/home
