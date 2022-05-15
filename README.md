@@ -3,7 +3,7 @@ wordle in spanish:https://wordle-es.xavier.cc/
 
 reactle: no difference https://reactle.vercel.app/
 
-wordle multiplayer:https://reactle.vercel.app/
+wordle multiplayer:https://wordlecup.io/
 
 wordle: https://www.nytimes.com/games/wordle/index.html
 
@@ -31,5 +31,7 @@ vex 4:https://rudolph-the-red-nosed-reindeer.ga/tam-focus-frame/?url=%2Ftmm-vex4
 cookie clicker: https://rudolph-the-red-nosed-reindeer.ga/tmm-cookieclicker/
 
 crossy road : https://rudolph-the-red-nosed-reindeer.ga/tam-crossyroad/
+
+
 
 
