@@ -32,6 +32,8 @@ cookie clicker: https://rudolph-the-red-nosed-reindeer.ga/tmm-cookieclicker/
 
 crossy road : https://rudolph-the-red-nosed-reindeer.ga/tam-crossyroad/
 
+train taxi:https://app-173343.games.s3.yandex.net/173343/qz1fa8f75kdt7t4ujgz4jtd2ybl2nzwd/index.html
 
+tug of war:https://app-170798.games.s3.yandex.net/170798/9nv16pzg8i8ifvivizb2qzaoe5yfzo2u/index.html
 
-
+**
